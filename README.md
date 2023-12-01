@@ -13,6 +13,12 @@ This is a demo fintech API where the system can deposit money to an agent accoun
   ``` npm i ```
 - Give following command to run:
   ``` npm test ```
+  
+![screencapture-file-F-SDET-FULL-STACK-SQA-dmoney-rest-API-Postman-Newman-Reports-report-html-2023-11-30-23_07_08](https://github.com/Fammemeem/Dmoney-rest-API-Postman-Newman/assets/106922643/72662f3b-dd78-436d-897b-a4ad03de22d9)
+
+
+![screencapture-file-F-SDET-FULL-STACK-SQA-dmoney-rest-API-Postman-Newman-Reports-report-html-2023-11-30-23_07_39](https://github.com/Fammemeem/Dmoney-rest-API-Postman-Newman/assets/106922643/77545836-1e90-43ac-8f07-41a42bd508c3)
+
 
   
 
