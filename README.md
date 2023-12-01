@@ -1,4 +1,4 @@
-# Dmoney-rest-API-Postman-Newman
+# Dmoney-rest-API-postman-newman
 
 ## Prerequisite
 - NodeJS
