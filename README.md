@@ -19,10 +19,10 @@ This is a demo fintech API where the system can deposit money to an agent accoun
 
 ![screencapture-file-F-SDET-FULL-STACK-SQA-dmoney-rest-API-Postman-Newman-Reports-report-html-2023-11-30-23_07_39](https://github.com/Fammemeem/Dmoney-rest-API-Postman-Newman/assets/106922643/77545836-1e90-43ac-8f07-41a42bd508c3)
 
-
+## Dmoney API Test Case:
+``` https://docs.google.com/spreadsheets/d/1Op6g3RWcPn-QNyYKQgeNFnajQDpegyG-/edit?usp=drive_link&ouid=114264983669059811738&rtpof=true&sd=true ```
   
 
 ## Published Documentation
 ```https://documenter.getpostman.com/view/31248032/2s9YeHaWYG```
 
-##
