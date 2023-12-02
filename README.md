@@ -1,12 +1,12 @@
 # Dmoney-rest-API-postman-newman
 
-## Prerequisite
+## Prerequisite:
 - NodeJS
 
-## About this project
+## About this project:
 This is a demo fintech API where the system can deposit money to an agent account, the agent can deposit to any 1 customer, and the customer can withdraw any amount from the agent, The customer and agent can check their balance, and customer can send money to another customer, another customer can pay a merchant, another customer can check both balance and statement, merchant can also check this own balance. Here I have chained multiple API's using Postman and generated report using Newman.
 
-## How to run this project
+## How to run this project:
 - Clone this project
   ``` https://github.com/Fammemeem/Dmoney-rest-API-Postman-Newman ```
 - In the source root project, give the following command:
@@ -21,8 +21,10 @@ This is a demo fintech API where the system can deposit money to an agent accoun
 
 ## Dmoney API Test Case:
 ``` https://docs.google.com/spreadsheets/d/1Op6g3RWcPn-QNyYKQgeNFnajQDpegyG-/edit?usp=drive_link&ouid=114264983669059811738&rtpof=true&sd=true ```
-  
 
-## Published Documentation
-```https://documenter.getpostman.com/view/31248032/2s9YeHaWYG```
+## Dmoney API Bug report:
+``` https://docs.google.com/spreadsheets/d/1ivEQHSUViQEWvaw_nDR7oWJA7uKbQyPB/edit?usp=sharing&ouid=114264983669059811738&rtpof=true&sd=true ```
+
+## Published Documentation:
+``` https://documenter.getpostman.com/view/31248032/2s9YeHaWYG ```
 
