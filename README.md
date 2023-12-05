@@ -4,7 +4,7 @@
 - NodeJS
 
 ## About this project:
-This a dmoney fintech project. There are some users like customer, agent, merchant. Customer can send money, withdraw and payment. Agent can deposit and payment. Merchant can receive payment and all users can check their balance and statement. Here I have chained multiple API's using Postman and generated report using Newman.
+This is a dmoney fintech project. There are some users like customer, agent, merchant. Customer can send money, withdraw and payment. Agent can deposit and payment. Merchant can receive payment and all users can check their balance and statement. Here I have chained multiple API's using Postman and generated report using Newman.
 
 ## How to run this project:
 - Clone this project
